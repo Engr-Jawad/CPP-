@@ -11,7 +11,7 @@ Learn C++ from scratch
 Understand core programming concepts
 Build strong problem-solving skills
 Prepare for Data Structures and Algorithms (DSA)
-🧠 Topics Covered
+### 🧠 Topics Covered
 🔹 Basics (Syntax, Input/Output)
 🔹 Data Types & Variables
 🔹 Operators
